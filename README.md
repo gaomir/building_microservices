@@ -1,2 +1,5 @@
-# building_microservices
+# Building Microservices
+
 Nic Jackson build Microservices lessons in Go (code).
+
+https://www.youtube.com/watch?v=VzBGi_n65iU&list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_
